@@ -28,7 +28,7 @@ public class DiegoCelis {
     String[] frontend = { "React", "JavaScript", "HTML", "CSS" };
     String[] lowCode  = { "Power Apps", "Power Automate", "SharePoint" };
 
-    String aprendiendo = "Testing con JUnit y Docker";   // ← edita esto
+    String aprendiendo = "Testing con JUnit y Docker";   
 
     String filosofia() {
         return "Código claro primero, optimización después.";
